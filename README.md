@@ -1,4 +1,4 @@
-# Postgres rust-analyzer bug example
+# rust-analyzer `dyn` Trait type mismatch example
 
 ![screenshot](screenshot.png)
 
